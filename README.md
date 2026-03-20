@@ -32,6 +32,8 @@
 
 
 # Linguagens e ferramentas 👨‍💻 🛠:
+
+está em processo kkklk
 </br>
 
 <p align="center">
@@ -40,7 +42,7 @@
 
 
 
-# Contact Me :
+# Me contate :
 
 <p>
  </br>
