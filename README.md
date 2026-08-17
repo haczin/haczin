@@ -11,13 +11,13 @@
 
 # Sobre mim 💬 :
 
-### - Olá mundo! Comecei meus estudos na area de programação recentemente, atualmente tenho 19 anos, apaixonado por games, heróis, animes, mangás e tecnologia.
+### - Olá mundo! Comecei meus estudos na área de programação recentemente, atualmente tenho 20 anos, apaixonado por games, heróis, animes, mangás e tecnologia.
 
 <img hight="400" width="500" alt="GIF" align="right" src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/1936.gif">
 
 ### - Aprendendo :
-- ✨ PHP
-- ✨ MySQL
+- ✨ C#
+- ✨ C
 
 ### - Hobbies : 
 - ✨ Jogos 
@@ -32,8 +32,13 @@
 
 
 # Linguagens e ferramentas 👨‍💻 🛠:
+- ✨HTML
+- ✨CSS
+- ✨MYSQl
+- ✨PHP
+- ✨PYTHON
+- ✨JAvaScript
 
-está em processo kkklk
 </br>
 
 <p align="center">
