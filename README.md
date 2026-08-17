@@ -34,7 +34,7 @@
 # Linguagens e ferramentas 👨‍💻 🛠:
 - ✨HTML
 - ✨CSS
-- ✨MYSQl
+- ✨MYSQL
 - ✨PHP
 - ✨PYTHON
 - ✨JAvaScript
